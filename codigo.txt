@@ -1,2 +1,2 @@
-Primeiro teste com Git.
+Primeiro teste com Git. Alteração para staging.
 Teste: nova linha
